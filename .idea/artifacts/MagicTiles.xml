@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MagicTiles">
+    <output-path>$PROJECT_DIR$/out/artifacts/MagicTiles</output-path>
+    <root id="archive" name="MagicTiles.jar" />
+  </artifact>
+</component>
