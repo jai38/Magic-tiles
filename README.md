@@ -1,2 +1,2 @@
 # Magic-tiles
-//this is for college project
+this is for college project
